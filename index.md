@@ -23,7 +23,9 @@
         <div class="buffer col-12"></div>
         <section class="text-center col-12">
           <hr>
-          <a href="https://mailchi.mp/1cd4c10d7f7e/ztm-landing-page" button class="btn btn-primary btn-xl">Find out more</button>
+          <a href="https://mailchi.mp/1cd4c10d7f7e/ztm-landing-page">
+            <button class="btn btn-primary btn-xl">Find out more</button>
+          </a>
         </section>
       </div>
     </div>
